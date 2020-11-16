@@ -12,7 +12,7 @@ import pista.Helipuerto;
 
 import copControl.Posicion;
 
-public class TestUnitarioHelipuerto {
+public class TestUnidadHelipuerto {
     int i,j;
 	Posicion posicionEntrada;
 	Helipuerto helipuerto;

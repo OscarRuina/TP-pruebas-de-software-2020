@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import copControl.Posicion;
 
-public class TestUnitarioPosicion {
+public class TestUnidadPosicion {
     Posicion posicion;
 	Posicion otraPosicionIgual;
 	Posicion otraPosicionDistancia;

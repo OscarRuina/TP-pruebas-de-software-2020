@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import copControl.Dificultad;
 
-public class TestUnitarioDificultad {
+public class TestUnidadDificultad {
     int a,b,c,d;
 	Dificultad dificultad;
 	@Before
